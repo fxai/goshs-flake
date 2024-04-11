@@ -28,7 +28,7 @@
 
           default = pkgs.buildGoModule rec {
             pname = "goshs";
-            version = "0.3.6";
+            version = "0.3.7";
               src = pkgs.fetchFromGitHub {
                 owner = "patrickhener";
                 repo = pname;
