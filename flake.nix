@@ -33,7 +33,7 @@
                 owner = "patrickhener";
                 repo = pname;
                 rev = "v${version}";
-                hash = "sha256-l2mDonetx3LVi6YQBnmYPG9FOefQrNmbg65P/eeR6pE=";
+                hash = "sha256-XinE5kjisen7ilHfcXmi9XSdOGQlFLax+NpDcfoNzcQ=";
             };
 
             doCheck = false;  
