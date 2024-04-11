@@ -38,7 +38,7 @@
 
             doCheck = false;  
 
-            vendorHash = "sha256-W4vv2Y4z+NxvuLs7LdRqWZEWUSMqjVz5e1M7VDE0QwA=";
+            vendorHash = "sha256-1QymLIeEb4q7QRbB76LC+d7IEnH4IznUpYzmoZerTSE=";
           };
         });
     };
